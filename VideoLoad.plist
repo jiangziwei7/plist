@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ztgame.galive</string>
+				<string>ztgame.RTChatDemo</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>GALive</string>
+				<string>VideoLoad</string>
 			</dict>
 		</dict>
 	</array>
